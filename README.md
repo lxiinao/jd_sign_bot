@@ -1,1 +1,15 @@
-Bye!
+<p align="center">
+    <img src="https://cdn.jsdelivr.net/gh/ruicky/ruicky.github.io/2020/06/05/jd-sign/0.png">
+</p>
+
+<p plign="center">
+    <img alt="Version" src="https:shields.io/badge/release-0.0.1-blue"/>
+    <a href="https://github.com/ruicky">
+        <img alt="Author" src="https://img.shields.io/badge/author-ruicky-blueviolet"/>
+  </a>
+</p>
+
+功能：
+1.获取签到最新代码
+2.替代参数值
+3.签到并发送通知
